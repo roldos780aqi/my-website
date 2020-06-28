@@ -2,7 +2,4 @@
 
 This is a really awesome website
 
-Now editing on update-read branch
-
-
-Updated locally
+Updates made on master on Github rebase
